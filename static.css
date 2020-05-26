@@ -2457,3 +2457,8 @@ background-color: <<colour tiddler-info-background>>;}
 .tc-tiddler-controls {
    display: none;
 }
+.tc-tiddler-controls {
+   display: none;
+}.tc-tab-buttons {
+   display: none;
+}
